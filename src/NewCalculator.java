@@ -6,6 +6,9 @@ public class NewCalculator {
     }
 
     // Craig is going to create a subtraction method
+    public static void subtract(double first, double second){
+        System.out.println(first + " + " second + " = " + (first+second) );
+    }
 
     //Danielle is going to create a multiplication method
 
