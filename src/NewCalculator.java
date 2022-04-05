@@ -2,7 +2,7 @@ public class NewCalculator {
 
     //Richard is going to create a add method
     public static void add(double first, double second){
-        System.out.printl(first + " + " + second + " = " + (first+second) );
+        System.out.println(first + " + " + second + " = " + (first+second) );
     }
 
     // Craig is going to create a subtraction method
